@@ -1,93 +1,26 @@
-# 👋 Hi, I'm Monica Dola
+<h1 align="center">Hi 👋, I'm Monica Dola</h1>
+<h3 align="center">Electronics Engineer exploring AI, Machine Learning, and Digital System Design</h3>
 
-🎓 Electronics and Communication Engineering Student (AI & ML Specialization)
-📍 Bengaluru, India
-🚀 Passionate about **Hardware Systems, AI/ML, and Software Development**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monicadola42&label=Profile%20views&color=0e75b6&style=flat" alt="monicadola42" /> </p>
 
-I enjoy building systems that connect **hardware, communication technologies, and intelligent software**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monicadola42" alt="monicadola42" /></a> </p>
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/monicadola42](https://github.com/monicadola42)
 
-# 🌟 About Me
+- 📫 How to reach me **monicadola42@gmail.com**
 
-* 🎓 B.Tech ECE (AI & ML Specialization) – CGPA: **9.03**
-* 💡 Interested in **Digital Design, FPGA Systems, AI, and Computer Vision**
-* 🔬 Building projects in **Verilog, Machine Learning, and Web Development**
-* 🚀 Goal: Work on **next-generation intelligent hardware systems**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ monica-d-56a677293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ monica-d-56a677293" height="30" width="40" /></a>
+<a href="https://instagram.com/moni.xae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moni.xae" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/monicadola42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="monicadola42" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/monicadola42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/monicadola42" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monicadola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monicadola" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-# 🛠 Tech Stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monicadola42&show_icons=true&locale=en" alt="monicadola42" /></p>
 
-### 💻 Programming
-
-C • Python • Java • JavaScript
-
-### 🤖 AI / Machine Learning
-
-PyTorch • OpenCV • Scikit-learn • NumPy • Matplotlib
-
-### ⚙ Hardware & Embedded
-
-Verilog • Xilinx Vivado • Arduino • Digital Logic Design • FSM • RTL
-
-### 🧰 Tools
-
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab • MATLAB
-
-### 🌐 Web Development
-
-HTML • CSS • JavaScript • Bootstrap
----
-
-# 🚀 Featured Projects
-
-### ⚡ Hardware & Communication Systems
-
-🔹 **UART Communication System (Verilog)**
-Designed UART transmitter and receiver using FSM and implemented configurable baud rate communication.
-
-🔹 **8-bit Arithmetic Logic Unit (ALU)**
-Designed combinational digital circuit implementing arithmetic and logical operations.
-
-🔹 **OFDM Wireless Communication Simulator**
-Implemented OFDM system with QPSK modulation and Rayleigh fading channel simulation using Python.
-
----
-
-### 🤖 AI / Computer Vision Projects
-
-🔹 **Real-Time Hand Gesture Recognition**
-Developed gesture recognition using Python and OpenCV with live camera input.
-
-🔹 **Satellite Change Detection using Deep Learning**
-Implemented CNN-based system using PyTorch to detect changes in satellite imagery.
-
----
-
-### 🌐 Software / Web Development
-
-🔹 **Spotify Clone Web Application**
-Developed responsive music streaming interface using HTML, CSS, JavaScript, and Bootstrap.
-
----
-
-# 🌐 Connect With Me
-
-## 🌐 Connect With Me
-
-📧 **Email**
-[monicadola42@gmail.com](mailto:monicadola42@gmail.com)
-
-💼 **LinkedIn**
-https://linkedin.com/in/monica-d-56a677293
-
-💻 **GitHub**
-https://github.com/monicadola42
-
-🌍 **Portfolio**
-https://monicadola42.github.io/Portfolio/
-
----
-
-⭐ *Always curious to learn, build, and innovate across Hardware and Intelligent Software Systems.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monicadola42&" alt="monicadola42" /></p>
