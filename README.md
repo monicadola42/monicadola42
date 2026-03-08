@@ -38,19 +38,6 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • MATLAB
 ### 🌐 Web Development
 
 HTML • CSS • JavaScript • Bootstrap
-
----
-
-# 📊 GitHub Stats
-
-![Monica's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicadola42\&show_icons=true\&theme=tokyonight)
-
----
-
-# 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monicadola42\&layout=compact\&theme=tokyonight)
-
 ---
 
 # 🚀 Featured Projects
@@ -85,20 +72,21 @@ Developed responsive music streaming interface using HTML, CSS, JavaScript, and 
 
 ---
 
-# 🏆 Achievements
-
-🏅 AIML for Geodata Analysis – **ISRO Certification**
-🏅 Hackerrank Assessment – **Python & CSS**
-🏅 3D Printing Workshop – Alliance University
-
----
-
 # 🌐 Connect With Me
 
-📧 [monicadola42@gmail.com](mailto:monicadola42@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/monica-d-56a677293
-💻 GitHub: https://github.com/monicadola42
-🌍 Portfolio: https://monicadola42.github.io/Portfolio/
+## 🌐 Connect With Me
+
+📧 **Email**
+[monicadola42@gmail.com](mailto:monicadola42@gmail.com)
+
+💼 **LinkedIn**
+https://linkedin.com/in/monica-d-56a677293
+
+💻 **GitHub**
+https://github.com/monicadola42
+
+🌍 **Portfolio**
+https://monicadola42.github.io/Portfolio/
 
 ---
 
