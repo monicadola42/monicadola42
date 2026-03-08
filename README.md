@@ -1,3 +1,5 @@
+<img width="1042" height="579" alt="image" src="https://github.com/user-attachments/assets/ad9c1d41-c309-42c7-9104-f9935c5a50d6" />
+
 <h1 align="center">Hi 👋, I'm Monica Dola</h1>
 <h3 align="center">ECE Student | AI & ML Enthusiast | Digital Design & Software Developer</h3>
 
